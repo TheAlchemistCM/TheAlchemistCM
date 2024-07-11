@@ -1,6 +1,6 @@
 [![MasterHead](https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Camille TENKWA</h1>
-<h3 align="center">I am a dedicated professional with a focus on developing innovative solutions for diverse business needs.</h3>
+<h3 align="center">A dedicated professional with a focus on developing innovative solutions for diverse business needs.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thealchemistcm&label=Profile%20views&color=0e75b6&style=flat" alt="thealchemistcm" /> </p>
